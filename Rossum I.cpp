@@ -2,6 +2,7 @@
 	Rossum I
 	Esse programa tem o intuito de ajudar nas mais diversas utilidades, ainda a serem definidas.
 	Rossum I - Dinâmica de Newton (Física)
+	Criação do projeto: 16/09/2020, Quarta-Feira, 00h12 .
 */
 #include <stdio.h>
 #include <iostream>
