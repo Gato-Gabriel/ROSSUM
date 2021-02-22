@@ -1,3 +1,6 @@
+/*
+	Criação do projeto: 05/10/2020, Segunda-Feira, 16h07 .
+*/
 #include <stdio.h>
 #include <iostream>
 #include <locale.h>
